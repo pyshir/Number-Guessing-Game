@@ -76,14 +76,14 @@ No external libraries are required.
 ## Running the Game
 
 ```bash
-python guessing_game.py
+python p4.py
 ```
 
 ## Project Structure
 
 ```text
 .
-├── guessing_game.py
+├── p4.py
 ├── board.csv
 └── README.md
 ```
